@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "923165940797",
+    "project_id": "shmooze-b7f8b",
+    "storage_bucket": "shmooze-b7f8b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:923165940797:android:2bb6c3ec13f54df4a2de54",
+        "android_client_info": {
+          "package_name": "com.example.shmooze"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "923165940797-eldfsh3q4hb9ich21cabgil3lhnaftk8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBweINuBP3H8AKw-vGcF2ENXnXIIJbNouY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "923165940797-eldfsh3q4hb9ich21cabgil3lhnaftk8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
